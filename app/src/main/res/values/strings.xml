@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task12</string>
+    <string name="save_and_send">Отправить данные через провайдер контента</string>
+    <string name="json">Преобразовать данные в JSON и сохранить в файл</string>
+    <string name="second_activity">Перейти на вторую активность</string>
+    <string name="read_json">Прочитать JSON данные</string>
+    <string name="read_data">Прочитать данные</string>
+    <string name="data">Данные отобразятся здесь</string>
+</resources>
